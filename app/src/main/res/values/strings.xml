@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Best Sheba</string>
+    <string name="moto">All in One</string>
+    <string name="about_us">About Us</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="find_us">Find Us</string>
+
+
+    <string name="offline_store_address">Dhaka\nNoakhali\nChattogram</string>
+    <string name="store_address">Sonapur College Gate, Sonapur, Sadar, Noakhali, Chattogram, Bangladesh.</string>
+
+
+    <string name="moto_string">বিশ্বস্ততা আমাদের মূল পুঁজি। দ্রুত ও নিশ্চিত ভাবে আমরা সার্ভিস প্রদান করি। আমাদের প্রতিটি ইভেন্টে রিফান্ডের সুযোগ আছে।</string>
+
+
+    <string name="about_us_string">সকল অনলাইন সেবাকে এক প্ল্যাটফর্মে নিয়ে আসার স্বপ্ন নিয়ে "বেস্ট সেবা"
+        নামে আমাদের যাত্রা শুরু। সম্মানিত গ্রাহকদেরকে সাথে নিয়েই আমাদের স্বপ্নযাত্রার শুরু ২০২০ সালের জানুয়ারি মাসে।
+        দ্রুত ও নিশ্চিত সেবা প্রদান করাই আমাদের লক্ষ্য। আমাদের রয়েছে সহজ ও দ্রুত টাকা রিফান্ড এর সুবিধা।
+        যা আমাদেরকে করেছে স্বতন্ত্র। গ্রাহকদের আস্থা, সন্তুষ্টি ও ভালোবাসা নিয়ে আমরা পৌঁছাতে চাই চূড়ান্ত লক্ষ্যে।
+    </string>
+
+</resources>
