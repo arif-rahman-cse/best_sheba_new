@@ -12,7 +12,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BestSheba"
         android:usesCleartextTraffic="true">
-        <activity android:name=".ContactUs"></activity>
+        <activity android:name=".Explore" />
+        <activity android:name=".ContactUs" />
         <activity android:name=".AboutUs" />
         <activity android:name=".MainActivity" />
         <activity android:name=".SplashScreen">

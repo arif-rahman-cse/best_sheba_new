@@ -104,8 +104,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             return true;
 
         }else if (id == R.id.contact_us){
-
             startNewActivity(MainActivity.this, ContactUs.class);
+            return true;
+
+        }else  if (id == R.id.explore){
+            startNewActivity(MainActivity.this, Explore.class);
             return true;
         }
         return false;
